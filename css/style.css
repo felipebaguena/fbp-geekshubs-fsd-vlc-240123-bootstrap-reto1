@@ -1,0 +1,101 @@
+body {
+    background-image: url(../img/hd-wallpaper-g6527ea342_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box-row {
+    height: 100vh;
+}
+
+.box2 {
+    border-radius: 2%;
+    padding: 0;
+
+}
+.icon-color {
+    color: grey;
+}
+
+.login-top {
+    background-color: azure;
+    border-top-left-radius: 2%;
+    border-top-right-radius: 2%;
+    width: 100%;
+    padding: 3%;
+}
+
+.tx-top {
+
+    height: 100px;
+    margin-bottom: 5%;
+}
+
+.tx-top-down {
+    font-size: small;
+    color: azure;
+}
+
+h2 {
+    color: azure;
+}
+
+.tx-bottom {
+    height: 100px;
+}
+
+p {
+    margin: 2%;
+    color: gray;
+}
+
+.login-text {
+    font-size:x-large;
+}
+
+.text-login {
+    width: 80%;
+}
+
+.form-1 {
+    padding: 3%;
+    background-color: rgb(210, 210, 210);
+}
+
+.btn-login {
+    width: 100%;
+}
+
+.text-login-with {
+    color: azure;
+}
+
+.fb {
+    width: fit-content;
+    height: 30px;
+}
+
+.tw {
+    height: 30px;
+}
+
+.gp {
+    font-size: small;
+    width: fit-content;
+    height: 30px;;
+}
+
+.gplus {
+    width: 80px;
+}
+
+.rrss-b {
+    background-color: rgba(0, 0, 0, 0.317);
+    border-radius: 3px;
+    border: 1px solid white;
+    margin: 2px;
+}
+
+.icon-color-2 {
+    color: rgb(207, 207, 207);
+}
